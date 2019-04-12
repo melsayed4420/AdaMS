@@ -2,7 +2,8 @@
  *  AdaMS Project (C) Mohamed ElSayed
  *  m.elsayed4420@gmail.com
  *  LowLeveCode.blogspot.com
- *  
+ *
+ * Edited
  *  File : AdaMS-arch.h
  *  AdaMS Project's VM architecture
  *  */
